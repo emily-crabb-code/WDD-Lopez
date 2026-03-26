@@ -59,11 +59,18 @@ nav a:hover {
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 15px;
+    color: #e6738e;
+    text-shadow: 
+        -1px 1px 5px #ecebda,
+        -1px -1px 5px #ecebda,
+        1px -1px 5px #ecebda,
+        1px 1px 5px #ecebda;
 }
 
 .hero p {
     margin-bottom: 25px;
     font-size: 1.1rem;
+    color:#d6d5c4;
 }
 
 .hero button {
