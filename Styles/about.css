@@ -14,3 +14,10 @@ p {
     font-size: 30px;
     text-align: center;
 }
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ecebda;
+    color: black;
+}
