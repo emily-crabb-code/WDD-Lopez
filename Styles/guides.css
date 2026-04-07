@@ -2,6 +2,13 @@ div {
     margin: 0 10%;
 }
 
+h1 {
+    color: #6bb1ad;
+    padding: 100px 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
 .tip {
     display: flex;
     grid-template-columns: 10vw 80vw;
